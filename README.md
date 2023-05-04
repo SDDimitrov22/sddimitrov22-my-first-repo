@@ -3,6 +3,3 @@
 
 This is a text 
 Simeon Stefanov
-
-
-
